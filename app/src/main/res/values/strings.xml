@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FixLastModifiedDate</string>
+    <string name="btn_select_images">Select Images</string>
+</resources>
